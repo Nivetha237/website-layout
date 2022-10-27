@@ -1,5 +1,5 @@
 ul
-{
+{       background-image:url("fresh furniture.png);
 	list-style-type: none;
 	padding: 0;
 	margin: 0;
@@ -8,7 +8,7 @@ ul
 }
 li
 {   color: grey;
-	background-image: "fresh furniture.png";
+	background-image:url( "fresh furniture.png");
 	background-repeat: no-repeat;
 	background-position: 100% .4em;
 	padding-right: .6em;
